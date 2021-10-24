@@ -17,3 +17,6 @@ let formpop = {
             formPopup.classList.remove('show')
         })
     }
+}
+formpop.run()
+    // auto popup
